@@ -23,5 +23,7 @@ class Cos3rd extends ConsoleProgram {
     // Output side C
     System.out.println("The ungiven side of the triangle is: " + dblSideC);
     
+    
+// Inline comment: No excess code, looks identical besides names and prompts
   }
 }

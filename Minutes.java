@@ -27,5 +27,8 @@ class Minutes extends ConsoleProgram {
     // Output days and hours
     System.out.println(intMinutes + " minute(s) is equal to " + intDays + " day(s) and " + intHoursLeftOver + " hour(s) " + intMinutesLeftOver + " minute(s)");
     
+    
+// Inline comment: Added an extra unneeded step (could have used left over minutes to compute hours) but otherwise identical results
+
   }
 }

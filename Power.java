@@ -22,5 +22,6 @@ class Power extends ConsoleProgram {
     System.out.println("The given base to the power of the given exponent is: " + dblApowerB);
 
     
+// Inline comment: No excess code, looks identical besides names and prompts
   }
 }

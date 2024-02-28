@@ -19,5 +19,7 @@ class FtoC extends ConsoleProgram {
     // Output C
     System.out.println("The degrees in Celsius is: " + dblC);
     
+    
+// Inline comment: No excess code, looks identical besides names and prompts
   }
 }

@@ -19,5 +19,7 @@ class Circumference extends ConsoleProgram {
     // Output results
     System.out.println("The circumference of the circle is: " + dblCircumference);
     
+    
+// Inline comment: No excess code, looks identical besides names and prompts
   }
 }

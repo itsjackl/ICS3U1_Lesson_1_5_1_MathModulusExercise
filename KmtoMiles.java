@@ -19,5 +19,7 @@ class KmtoMiles extends ConsoleProgram {
       //Output Miles
       System.out.println("The distance in miles is: " + dblMiles);
       
+      
+// Inline comment: No excess code, looks identical besides names and prompts
     }
   }

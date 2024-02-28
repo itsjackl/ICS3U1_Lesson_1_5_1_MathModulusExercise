@@ -19,5 +19,7 @@ class Rads extends ConsoleProgram {
     // Output Radians
     System.out.println("The number of radians is: " + dblRadians);
 
+    
+// Inline comment: Onlt difference is that I used math in the form of math.pi / 180 instead of math.toradians, but same results
   }
 }

@@ -24,7 +24,7 @@ class AreaSin extends ConsoleProgram {
     System.out.println("The area of the triangle is: " + dblAreaXYZ);
 
 
-
+// Inline comment: No excess code, looks identical besides names and prompts
 
 
     

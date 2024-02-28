@@ -22,5 +22,6 @@ class Hours extends ConsoleProgram {
     System.out.println(intHours + " hour(s) is equal to " + intDays + " day(s) and " + intHoursLeftOver + " hour(s)");
 
     
+// Inline comment: No excess code, looks identical besides names and prompts
   }
 }
